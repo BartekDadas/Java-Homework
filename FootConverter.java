@@ -1,10 +1,20 @@
+import java.io.Serializable;
 import java.util.Scanner;
 public class FootConverter {
     Scanner input = new Scanner(System.in);
-    public double convertToMetr() {
-         System.out.println("Foot: ");
-         double feet  = input.nextDouble();
-         System.out.println("Equals:");
-         return feet * 0.3080;
+    String feet =  input.next();
+     Serializable checkInput() {
+        try {
+           double transformFeet = Double.parseDouble(feet);
+           return convertToMeter(transformFeet);
+       }
+       catch (NumberFormatException e){
+           return feet;
+       }
+
     }
+
+     static double convertToMeter(double transformFeet) {
+        return (transformFeet * 0.3080);
+     }
 }
