@@ -1,6 +1,6 @@
 # Java-Homework
 A project workspace for possibly future Android Developer. 
-All programs here are made in Java (version 16)
+All programs here are made in Java SE 16
 ## Table of contentst
 1. [About me](#about-me)
 2. [Goals](#goals)
