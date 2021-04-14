@@ -18,6 +18,6 @@ Here are few programs I was working on recently.<br />
 [ATM app](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/ATM.java)<br />
 [To-Do app](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/To_Do.java)<br />
 ### Other examples in Kotlin
-Before I've started coding in Java, I was also learning Kotlin Language. So here are few patterns
+Before I've started coding in Java, I was also learning Kotlin Language. So here are few patterns:<br />
 [MergeSort](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/MergeSort.kt)<br />
 [SquareFunction](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/ZeroQuadratic.kt)<br />
