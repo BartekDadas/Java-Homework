@@ -12,9 +12,9 @@ I'm a begginer programist and most programs  that I wrote are pretty simple,
 but I hope that within some time my knowledge and experience will be enought to work as proffesional.
 ## Goals
 In a few months I intend to work in Android Studio
-![alt text](https://octoperf.com/img/blog/minor-version-major-features/level-up.gif)
-## My Work example
-> Currently there are no good examples.
-> I'm gonna  update them soon
-## Additional info 
-I've also study Kotlin Language
+## My Work exaples
+[ATM app](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/ATM.java)
+[To-Do app](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/To_Do.java)
+### Other examples in Kotlin
+[MergeSort](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/MergeSort.kt)
+[SquareFunction](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/ZeroQuadratic.kt)
