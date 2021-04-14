@@ -13,8 +13,8 @@ but I hope that within some time my knowledge and experience will be enought to 
 ## Goals
 In a few months I intend to work in Android Studio
 ## My Work exaples
-[ATM app](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/ATM.java)
-[To-Do app](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/To_Do.java)
+[ATM app](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/ATM.java)<br />
+[To-Do app](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/To_Do.java)<br />
 ### Other examples in Kotlin
 [MergeSort](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/MergeSort.kt)
 [SquareFunction](https://github.com/BartekDadas/Java-Homework/blob/934b374650305df82f69d2c5fa0b8933b024126b/ZeroQuadratic.kt)
